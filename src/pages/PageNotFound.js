@@ -1,4 +1,3 @@
-import { useEffect } from "react"
 import { Link } from "react-router-dom"
 import { useTitle } from "../hooks/useTitle";
 import  PageNotFoundImage  from "../assets/images/pagenotfound.png"
