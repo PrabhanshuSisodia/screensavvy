@@ -38,7 +38,7 @@ const Header = () => {
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <NavLink to="/" className="flex items-center space-x-3 rtl:space-x-reverse">
             <img src={Logo} className="h-10 mr-2 sm:h-14" alt="ScreenSavvy Logo" />
-            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">ScreenSavvy</span>
+            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Screen Savvy</span>
           </NavLink>
 
 
