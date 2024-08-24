@@ -5,7 +5,7 @@ import { Button } from "../components"
 
 const PageNotFound = () => {
 
-  const pageTitle = useTitle("Page Not Found");
+  useTitle("Page Not Found");
 
 
   return (
