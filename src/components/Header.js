@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { useState } from 'react';
 import { NavLink,useNavigate, /*Link*/} from 'react-router-dom';
-import Logo from '../assets/logo.png'
+import Logo from '../assets/logo.png';
 
 const Header = () => {
 
@@ -102,7 +102,6 @@ const Header = () => {
 
         </div>
       </nav>
-
     </header>
   )
 }
